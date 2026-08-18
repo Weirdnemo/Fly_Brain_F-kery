@@ -15,12 +15,12 @@ subsetting/discovery workflow inspired by
 Scripted approach-and-feed sequence — bee moves toward the flower, real MN9
 response crosses threshold, bee feeds:
 
-![Visual sandbox demo](Drosophila_brain_model/renders/visual_sandbox_preview.gif)
+![Visual sandbox demo](renders/visual_sandbox_preview.gif)
 
 Interactive version — click to place flower/water/bad food, bee reacts live,
 including bad-food avoidance:
 
-![Interactive sandbox demo](Drosophila_brain_model/renders/interactive_sandbox_preview.gif)
+![Interactive sandbox demo](renders/interactive_sandbox_preview.gif)
 
 ## What's real here, and what isn't
 
